@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @nostriches
+[Read the docs](https://github.com/nostr-protocol/nostr)
